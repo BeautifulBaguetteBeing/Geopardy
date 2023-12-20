@@ -1,5 +1,5 @@
 # Geopardy!
-___
+
 This is an interactive Jeopardy!-style review game for AP Human Geography. Players can select questions from different categories and difficulty levels, and teams compete to answer the questions correctly.  
 
 ## How to Play
